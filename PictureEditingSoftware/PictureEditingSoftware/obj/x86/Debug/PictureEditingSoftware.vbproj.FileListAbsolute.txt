@@ -1,0 +1,28 @@
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\bin\Debug\PictureEditingSoftware.exe
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\bin\Debug\PictureEditingSoftware.pdb
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\bin\Debug\PictureEditingSoftware.xml
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.MainForm.resources
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.exe
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.xml
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.MainForm.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PictureEditingSoftware.LoadingBar.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\bin\Debug\PicJoin.exe.manifest
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\bin\Debug\PicJoin.application
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\bin\Debug\PicJoin.exe
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\bin\Debug\PicJoin.pdb
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\bin\Debug\PicJoin.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PicJoin.TrustInfo.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PicJoin.exe.manifest
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PicJoin.application
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PicJoin.exe
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PicJoin.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\PictureEditingSoftware\PictureEditingSoftware\obj\x86\Debug\PicJoin.pdb
