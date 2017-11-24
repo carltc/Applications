@@ -1,0 +1,13 @@
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\bin\Debug\Bit Manipulation.exe
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\bin\Debug\Bit Manipulation.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\bin\Debug\Bit Manipulation.xml
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit_Manipulation.Form1.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit_Manipulation.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit Manipulation.exe
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit Manipulation.xml
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit Manipulation.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit_Manipulation.Form2.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Bit Manipulation\Bit Manipulation\obj\x86\Debug\Bit_Manipulation.Form3.resources
