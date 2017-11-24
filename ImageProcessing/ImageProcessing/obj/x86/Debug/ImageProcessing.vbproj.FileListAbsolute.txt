@@ -1,0 +1,22 @@
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.xml
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.xml
+C:\Dokumente und Einstellungen\ctc0103\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.xml
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.xml
